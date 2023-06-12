@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BudgetVisualizer/static/css/main.96d25427.css",
+    "main.js": "/BudgetVisualizer/static/js/main.2e84415d.js",
+    "index.html": "/BudgetVisualizer/index.html",
+    "main.96d25427.css.map": "/BudgetVisualizer/static/css/main.96d25427.css.map",
+    "main.2e84415d.js.map": "/BudgetVisualizer/static/js/main.2e84415d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96d25427.css",
+    "static/js/main.2e84415d.js"
+  ]
+}
